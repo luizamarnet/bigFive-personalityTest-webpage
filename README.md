@@ -115,7 +115,7 @@ Now:
     * When asked __For which GitHub repository would you like to set up a GitHub workflow? (format: user/repository)__, choose the respective repository that you are connecting to this project. Attempt to the format user/repository
        * Here, you will probably receive an error. Re-run step 3 from the beggining, and it will probablyy work this time
     * When asked __Set up the workflow to run a build script before every deploy? __, choose __n__ 
-    * When asked __Set up automatic deployment to your site's live channel when a PR is merged?__, choose __n__ if But you do not want the live website to be updated automatically
+    * When asked __Set up automatic deployment to your site's live channel when a PR is merged?__, choose __n__ if you do not want the live website to be updated automatically
 4. ```cmd
     firebase deploy --only hosting
     ```
