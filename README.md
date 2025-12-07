@@ -120,7 +120,7 @@ Now:
     firebase deploy --only hosting
     ```
 
-The last step gives you a Hosting URL. Clack and share this URL for using your web app and be happy! :) 
+The last step gives you a Hosting URL. Clack and share this URL for using your web app and be happy! 🙂 
 
 If you arrived to this point, congrats! You did it! 
 
