@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-block {
+  margin-bottom: 1.5rem;
+}
+
+.options label {
+  margin-right: 1rem;
+}
+
+#radar-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+#radarChart {
+  width: 100% !important;
+  height: auto !important;
+}
+
+
+.lang-switch {
+  margin-left: 15px;
+  font-size: 14px;
+  padding: 4px 8px;
+  border: 1px solid #663399;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #663399;
+}
+
+.lang-switch:hover {
+  background-color: #663399;
+  color: #fff;
+}

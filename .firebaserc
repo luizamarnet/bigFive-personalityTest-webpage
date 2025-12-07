@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "big5-app-rev2",
+    "test": "big5-app-rev2"
+  },
+  "targets": {},
+  "etags": {}
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Big Five Personality Traits Test</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+
+    <header style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+      <h1>Big Five Personality Traits Test</h1>
+      <a href="/pt/index.html" class="lang-switch">Português</a>
+    </header>
+
+    
+    <div id="instructions"></div>
+    <form id="bigfive-form">
+      <div id="questions"></div>
+      <button type="submit">send</button>
+    </form>
+    <div id="result"></div>
+    <div id="radar-container" style="max-width: 500px; margin: 40px auto; padding: 20px;">
+      <canvas id="radarChart"></canvas>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js?v=4"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "answers": {
+    "EXT1":5,"EXT2":4,"EXT3":3,"EXT4":2,"EXT5":1,"EXT6":4,"EXT7":3,"EXT8":2,"EXT9":1,"EXT10":5,
+    "EST1":2,"EST2":3,"EST3":4,"EST4":5,"EST5":1,"EST6":2,"EST7":3,"EST8":4,"EST9":5,"EST10":2,
+    "AGR1":3,"AGR2":4,"AGR3":5,"AGR4":1,"AGR5":2,"AGR6":3,"AGR7":4,"AGR8":5,"AGR9":1,"AGR10":2,
+    "CSN1":5,"CSN2":4,"CSN3":3,"CSN4":2,"CSN5":1,"CSN6":2,"CSN7":3,"CSN8":4,"CSN9":5,"CSN10":1,
+    "OPN1":2,"OPN2":3,"OPN3":4,"OPN4":5,"OPN5":1,"OPN6":2,"OPN7":3,"OPN8":4,"OPN9":5,"OPN10":1
+  }
+}
